@@ -1,4 +1,7 @@
 # sudoku-cli
+
+![screenshot](https://imgur.com/YXmltVR)
+
 ## CLI sudoku game
 This is a simple and easy sudoku to play on the terminal
 
